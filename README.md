@@ -1,5 +1,5 @@
 # Custom-Shell
-Simple to use UNIX shell developed using the C programming lanuage
+Simple UNIX shell developed using the C programming lanuage
 --------------------------------------------------------------------
 User Manual:
 1. Download the myshell.c file onto your LINUX/UNIX environment of choice (Windows Subsystem for Linux is also supported)
